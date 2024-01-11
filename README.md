@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello there! I'm an emerging front-end developer, passionate about unleashing my creativity in the ever-evolving world of web development.  My journey is centered on mastering the craft of clean, elegant code, while embracing the excitement of learning new skills.<br><br>🎯 As a firm believer in the beauty of collaboration, I thrive in team settings, cherishing the moments when I can both learn from and share my knowledge with others.<br><br>🌐 My mission is to create not just functional, but beautifully designed and user-friendly web experiences. From diving into the complexities of clean code to the joy of collaborating within a team.<br><br>🚀 Let's join forces, learn, innovate, and code together.
+About Me:
+👋 Hello there! I'm an emerging front-end developer, passionate about unleashing my creativity in the world of web development.  My journey is centered on mastering the craft of clean, elegant code, while embracing the excitement of learning new skills.<br><br>🎯 As a firm believer in the beauty of collaboration, I thrive in team settings, cherishing the moments when I can both learn from and share my knowledge with others.<br><br>🌐 My mission is to create not just functional, but beautifully designed and user-friendly web experiences. From diving into the complexities of clean code to the joy of collaborating within a team.<br><br>🚀 Let's join forces, learn, innovate, and code together.
 
 
 # 💻 Tech Stack:
